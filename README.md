@@ -1,3 +1,3 @@
 # pbpu
 
-tes1 ets ste
+tes1 ets steg
